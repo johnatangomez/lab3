@@ -24,5 +24,8 @@
   "homepage": "https://github.com/johnatangomez/lab3#readme",
   "dependencies": {
     "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "mocha": "^8.2.0"
   }
 }
